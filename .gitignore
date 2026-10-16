@@ -1,0 +1,10 @@
+.env
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Playwright MCP tool output (screenshots/snapshots written to the project root)
+.playwright-mcp/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
